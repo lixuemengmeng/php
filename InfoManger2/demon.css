@@ -1,0 +1,38 @@
+body{
+	opacity: .6;
+}
+.div-center{
+	width: 60%;
+	background: #ccc;
+	opacity: .8;
+	margin: 200px auto;
+	padding: 50px 200px;
+}
+.div-center select{
+		width: 100px;
+		height: 30px;
+}
+.div-select{
+	margin-bottom: 20px;
+}
+.btn{
+	margin-left: 200px;
+	text-align: center;
+
+
+}
+.btn a{
+	width: 80px;
+	height: 30px;
+	line-height: 30px;
+	display: block;
+	border: 0;
+	background: rgb(0, 192, 145);
+	border-radius: 5px;
+	cursor: pointer;
+}
+.order-p{
+	background: #ccc;
+	opacity: .8;
+	word-break: break-all;
+}
